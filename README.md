@@ -1,6 +1,8 @@
 # kibra-motel
 FiveM Pinkcage Interior Room - Motel Cafe - Bar
 
+# My Discord 
+- http://dc.emirkibar.com/
 # Install
 Throw the file "kibra-motel" into the resources folder, and then type start / ensure kibra-motel from server.cfg or common.cfg.
 
